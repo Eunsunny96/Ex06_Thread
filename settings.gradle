@@ -1,0 +1,2 @@
+rootProject.name = "Ex06_Thread"
+include ':app'
